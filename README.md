@@ -8,8 +8,11 @@ Python, TensorFlow/Keras, NumPy, Matplotlib, Scikit-learn
 
 **Approach**
 Image preprocessing & resizing
+
 Data augmentation using ImageDataGenerator
+
 CNN-based multi-class classification
+
 Model evaluation using accuracy metrics
 
 **Results**
